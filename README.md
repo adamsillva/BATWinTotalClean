@@ -1,6 +1,8 @@
 # WinTotalClean (.bat)
 
 [![Download](https://img.shields.io/badge/Download-BATWinTotalClean.bat-blue?style=for-the-badge)](https://github.com/adamsillva/BATWinTotalClean/releases/tag/bat)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge)](#requisitos)
 
 Script em batch para limpar pastas temporárias do Windows e do usuário logado, incluindo Prefetch. Ao executar, solicita elevação de privilégios (UAC) e realiza a limpeza de forma silenciosa, ignorando arquivos em uso.
 
