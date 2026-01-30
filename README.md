@@ -80,7 +80,7 @@ exit /b
 Você pode agendar rodadas periódicas:
 1. Abra o Agendador de Tarefas.
 2. Crie uma nova tarefa, marque “Executar com privilégios mais altos”.
-3. Em “Ações”, aponte para o caminho completo do `limpar_temp.bat`.
+3. Em “Ações”, aponte para o caminho completo do `WinTotalClean.bat`.
 4. Defina gatilhos (ex.: ao fazer logon ou diariamente).
 
 ## Perguntas frequentes
